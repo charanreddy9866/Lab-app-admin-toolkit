@@ -1,0 +1,6 @@
+*.db
+*.json
+!sample_data/*.json
+data_share/
+access_review_findings.csv
+__pycache__/

@@ -1,0 +1,8 @@
+username,app_role,status,last_login
+jdoe,Analyst,Active,2026-10-28
+asmith,Approver,Active,2026-10-30
+bwong,Analyst,Active,2026-06-02
+klee,Reviewer,Active,2026-10-15
+lab_shared,Analyst,Active,2026-10-29
+mtaylor,Analyst,Active,2026-09-12
+rgarcia,Analyst,Disabled,2026-05-01

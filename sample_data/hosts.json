@@ -1,0 +1,5 @@
+{
+  "disks": [{"path": ".", "min_free_pct": 15}],
+  "ports": [{"host": "localhost", "port": 1433}],
+  "shares": ["./data_share"]
+}
